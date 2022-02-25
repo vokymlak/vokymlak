@@ -8,8 +8,8 @@ Also, I'm  teach programming courses.
 
 - 🔭 I'm currently working on a lot of interesting features in inbookmark.org
 
-In my practice I use programming languages: java, python, php, javascript(typescript).
+In my practice I use programming languages: java, python, php, javascript(typescript), golang.
 
-I also use frameworks: React, Angular, Laravel.
+I also use frameworks: React, Angular, Laravel/Lumen.
 
 I love docker, electron and a lot of other interesting technologies and libraries that help me implement my tasks.
