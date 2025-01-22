@@ -1,21 +1,21 @@
- ### Hello everyone! Welcome to my GitHub page!
+### Hello and welcome to my GitHub page!
 
-I specialize in enterprise automation systems development, microservice architecture creation, and user experience-driven interface design.
+I specialize in building automation systems for businesses, designing microservice architectures, and creating user-friendly interfaces.
 
-I actively utilize **GoLang**, **TypeScript**, **React** and **PostgreSQL** technologies to develop efficient and innovative solutions.
+I work with technologies like **GoLang**, **TypeScript**, **React**, and **PostgreSQL** to deliver efficient and innovative solutions.
 
-My goal is to create interfaces that are not only functional but also user-friendly.
+My focus is not just on creating functional interfaces, but on making them intuitive and easy to use.
 
-I am always open to collaboration and ready to take on new challenges.
+I'm always open to new collaborations and excited to explore fresh opportunities.
 
 <hr />
 
-### Привет, ребята! Добро пожаловать на мою страницу в GitHub!
+### Привет и добро пожаловать на мою страницу на GitHub!
 
-Моя специализация - разработка систем автоматизации для предприятий, создание микросервисной архитектуры и дизайн интерфейсов, которые приятны пользователю.
+Я занимаюсь разработкой систем автоматизации для бизнеса, проектированием микросервисных архитектур и созданием удобных интерфейсов.
 
-Я активно использую такие технологии как **GoLang**, **TypeScript**, **React** и **PostgreSQL**, чтобы создавать эффективные и инновационные решения.
+Работаю с такими технологиями, как **GoLang**, **TypeScript**, **React** и **PostgreSQL**, чтобы создавать эффективные и инновационные решения.
 
-Моя цель - не только разрабатывать функциональные интерфейсы, но и делать их максимально удобными для пользователей.
+Моя цель — не только разработать функциональные интерфейсы, но и сделать их интуитивно понятными и удобными для пользователей.
 
-Я всегда открыт для сотрудничества и готов принять новые предложения.
+Я всегда открыт для новых проектов и с радостью рассматриваю предложения о сотрудничестве.
