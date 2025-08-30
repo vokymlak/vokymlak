@@ -19,3 +19,9 @@ I'm always open to new collaborations and excited to explore fresh opportunities
 Моя цель — не только разработать функциональные интерфейсы, но и сделать их интуитивно понятными и удобными для пользователей.
 
 Я всегда открыт для новых проектов и с радостью рассматриваю предложения о сотрудничестве.
+
+## Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vokymlak&show_icons=true&theme=transparent" />
+
+## My most used languages
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vokymlak&layout=compact&theme=transparent" />
